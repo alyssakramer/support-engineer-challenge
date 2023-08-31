@@ -34,4 +34,4 @@ If you're not able to solve from there, run "fly status --all" then, "fly machin
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `<app>.fly.dev`
+https://sec-kramer.fly.dev
